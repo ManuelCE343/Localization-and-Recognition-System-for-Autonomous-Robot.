@@ -1,5 +1,10 @@
 # Localization-and-Recognition-System-for-Autonomous-Robot.
 Presentation of a Robotic Prototype with an Object Recognition System Based on SFR08 Ultrasonic Sensors
+![image](https://github.com/user-attachments/assets/dd916605-e141-4b74-ac70-3c050acebbdf)
+![image](https://github.com/user-attachments/assets/cec6a2ad-5ca0-4005-8ef1-4e865fdc4b7e)
+![image](https://github.com/user-attachments/assets/4102a5db-cef2-4a39-a70a-45b70b32d920)
+![image](https://github.com/user-attachments/assets/8c784f8d-09f6-48a0-acb3-e1bf4f1e8d30)
+
 
 ![IMG_20201005_201131](https://github.com/user-attachments/assets/64d739fd-40a4-4556-ab3b-c91f50122123)
 ![IMG_20201009_160231](https://github.com/user-attachments/assets/fce4927b-ca73-4945-9353-c8fd89ad258e)
